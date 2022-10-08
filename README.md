@@ -18,7 +18,7 @@ To intialize the class Stack,
 <br><br>
 To push an element into the stack
 <br>
-<code style="color:#cf222e">stack_a.push(2)</code>
+<code style="color:#cf222e"><span class="pl-k"></span>stack_a.push(2)</code>
 <br><br>
 To pop an element from stack
 <br>
