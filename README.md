@@ -13,19 +13,25 @@ d)isEmpty which checks if stsck is empty.
 e)isFull which checks if the stsck is full.
 <hr>
 To intialize the class Stack,
-<code>stack_ = Stack()</code>
+<br>
+<code style="color:#cf222e">stack_ = Stack()</code>
 <br>
 To push an element into the stack
-<code>stack_a.push(2)</code>
+<br>
+<code style="color:#cf222e">stack_a.push(2)</code>
 <br>
 To pop an element from stack
-<code>stack_.pop()</code>
+<br>
+<code style="color:#cf222e">stack_.pop()</code>
 <br>
 To return the top most element from stack
-<code>stack_.peek()</code>
+<br>
+<code style="color:#cf222e">stack_.peek()</code>
 <br>
 To check if the stack is empty
-<code>stack_.isEmpty()</code>
+<br>
+<code style="color:#cf222e">stack_.isEmpty()</code>
 <br>
 To check if the stack is full
-<code>stack_isFull()</code>
+<br>
+<code style="color:#cf222e">stack_isFull()</code>
