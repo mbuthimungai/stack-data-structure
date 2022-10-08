@@ -3,9 +3,13 @@ A stack is a data structure which has Last In First Out operation.<br>
 stack has the following operations:
 <br>
 a)push which adds an element to stack.
+<br>
 b)pop which removes the topmost element from stack.
+<br>
 c)peek which returns the topmost element.
+<br>
 d)isEmpty which checks if stsck is empty.
+<br>
 e)isFull which checks if the stsck is full.
 <hr>
 To intialize the class Stack,
