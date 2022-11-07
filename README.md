@@ -8,9 +8,9 @@ b)pop which removes the topmost element from stack.
 <br><br>
 c)peek which returns the topmost element.
 <br><br>
-d)isEmpty which checks if stsck is empty.
+d)isEmpty which checks if stack is empty.
 <br><br>
-e)isFull which checks if the stsck is full.
+e)isFull which checks if the stack is full.
 <hr>
 To intialize the class Stack,
 <br>
